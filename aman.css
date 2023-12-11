@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+.1div{
+        margin: 15px;
+    padding: 15px;
+    display: inline-block; 
+}
+#navbar{
+    height: 70px;
+    width: 1750px;
+    background-color: yellow;
+    display:inline-flex;
+    
+}
+img{
+    height: 130px;
+    width: 120px;
+}
